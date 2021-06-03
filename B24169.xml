@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The High Dutch fortune-teller wherein all those questions relating to the several states, conditions and occasions of humane life, are fully resolv'd and answer'd, according to the rules of art used by the ancient and famous Egyptian magi, or wise men and philosophers. To which is added, a judicial account of phisognomy and palmistry; as it was practised by the ancient Egyptians, (from whom the same was originally derived) shewing a person's good or bad fortune, by the lines and marks that are found in the face and hands, &amp;c. The whole being more correct, than any thing of this nature hitherto published. Licens'd and enter'd according to order.</title>
+         </titleStmt>
+         <extent>Approx. 65KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24169</idno><idno type="EEBO-CITATION">99828571</idno>
+  <idno type="VID">206941</idno>
+  <idno type="EEBO-PROQUEST">2248493117</idno>
+  
+            <idno type="STC">Wing H1960A</idno>
+            <idno type="PROQUEST">99828571</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828571e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24169)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206941)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1867:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The High Dutch fortune-teller wherein all those questions relating to the several states, conditions and occasions of humane life, are fully resolv'd and answer'd, according to the rules of art used by the ancient and famous Egyptian magi, or wise men and philosophers. To which is added, a judicial account of phisognomy and palmistry; as it was practised by the ancient Egyptians, (from whom the same was originally derived) shewing a person's good or bad fortune, by the lines and marks that are found in the face and hands, &amp;c. The whole being more correct, than any thing of this nature hitherto published. Licens'd and enter'd according to order.</title>
+               </titleStmt>
+               <extent>24 p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>printed by and for W. Onley; and are to be sold by the booksellers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: The high Dutch and German fortune-teller.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>The High Dutch, or German fortune-teller, is in verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Palmistry --  Early works to 1800.</term>
+               <term type="topical_term">Fortune-telling --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206941:1"/>
+            <p>THE <hi>High Dutch Fortune-teller:</hi> WHEREIN All those Questions relating to the several States, Conditions and Occasions of Humane Life, are fully Resolv'd and Answer'd, accord<g ref="char:EOLhyphen"/>ing to the Rules of Art used by the Ancient and Famous Egyptian Magi, or Wise Men and Philosophers.</p>
+            <p>
+               <hi>To which is added,</hi> A Judical Account of Phisognomy and Palmistry; as it was Practised by the Ancient Egyptians, (from whom the same was originally d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rived) shewing a Person's good or bad Fortune, by the Lines and Marks that are found in the Face and Hands, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>The whole being more Correct, than any thing of this Nature hitherto Published.</hi>
+            </p>
+            <p>
+               <hi>Licens'd and Enter'd according to Order.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>London:</hi> Printed by and for <hi>W. Onley;</hi> and are to be sold by the Booksellers.</p>
+         </div>
+         <div type="explanation">
+            <pb facs="tcp:206941:2"/>
+            <pb facs="tcp:206941:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:206941:3"/>
+            <head>The Explanation of the First Part, to be thrown with Dice.</head>
+            <p>I Have stated in this Book, under twelve proper Heads, such Questions as are very pleasing and agreeable to either Sex, and ought to be considered, not only for Plea<g ref="char:EOLhyphen"/>sure but Advantage; and these are govern'd by twelve Coelestial Signs, referring you to twelve Sages, who were great Astrologers and Philosophers in their time, to Re<g ref="char:EOLhyphen"/>solve what you Demand; and under each of them you will find it in plain Words, with<g ref="char:EOLhyphen"/>out any dark or obscure Figures, and these they are:
+<list>
+                  <item>
+                     <hi>1. Success, or the contrary relating to Marriage. Go to</hi> Ptolomy.</item>
+                  <item>
+                     <hi>2. Friendship contracted, whether real or not. Go to</hi> Cornelius Agrippa.</item>
+                  <item>
+                     <hi>3. Good and bad Success in Affairs and Matters of Life. Go to</hi> Socrates.</item>
+                  <item>
+                     <hi>4 VVhether you shall have the Party desired, and when. Go to</hi> Plato.</item>
+                  <item>
+                     <hi>5 Pretensi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ns of Love, whether real or not. Go to</hi> Aristotle.</item>
+                  <item>
+                     <hi>6. VVhether you shall obtain your VVish or not. Go to</hi> Parinesius.</item>
+                  <item>
+                     <hi>7. How many Husbands or VVives a Party shall have. Go to</hi> Xenophon.</item>
+                  <item>
+                     <hi>8. Whether y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>u shall have Children, and whether Boys or Girls. Go to</hi> Seneca.</item>
+                  <item>
+                     <hi>9. A Friend absent, if in health, and when return. Go to</hi> Trismigestus.</item>
+                  <item>
+                     <hi>10. VVhether it is proper to Marry or forbear it. Go to</hi> Xenocrates.</item>
+                  <item>
+                     <hi>11. VVhether your Affairs shall be prosperous, and by what means you will best thrive. Go to</hi> Albertus Magnus.</item>
+                  <item>
+                     <hi>12. The Party described you are to Marry. Go to</hi> Ximenes.</item>
+               </list>
+            </p>
+            <p>Now to know this; look on the Figure in the Front, when you have stated your Question, and cast your Dice, suppose you throw <hi>6</hi> with two Dice, and you desire to know your Success in Marriage, as the first Question, which directs you to <hi>Ptolomy;</hi> look into his Resolves or Answers for <hi>6,</hi> and you will find it this:
+<q>
+                  <l>Now Mistress, you have thrown well in a trice,</l>
+                  <l>And are the happy Favourite of the Dice;</l>
+                  <l>A M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n of Parts and VVealth you soo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> shall wed,</l>
+                  <l>And of a Boy the first year brough<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o bed.</l>
+               </q>
+            </p>
+            <figure>
+               <head>1 2 3 4 5 6 7 8 9 10 11 12.</head>
+            </figure>
+            <p>And so according to any other Cast, first proposing any of the Questions upon your twelve Chances on one Die, to fix, and from sl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to twelve, on two.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:206941:3"/>
+            <head>The <hi>High Dutch,</hi> or <hi>German</hi> Fortune-teller.</head>
+            <div type="questions">
+               <head>Questions relating to Love and Marriage, resolved according to <hi>Ptolomy.</hi>
+                  <figure/>
+               </head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>THe Party lov'd knows not you are in pain,</l>
+                  <l>Or else you should not long of it complain;</l>
+                  <l>Speak freely then your mind, and you will see</l>
+                  <l>In a few weeks you both will well agree.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>She is not rich, as you suppose, but yet</l>
+                  <l>In her a happy Fortune you will get;</l>
+                  <l>She's chaste and vertuous; and with such a Wife,</l>
+                  <l>The Fates decree a comfortable Life.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>O now, or never, you will have your mind,</l>
+                  <l>Here Fortune smiles, the Party will prove kind;</l>
+                  <l>A while, indeed, you'll at a distance stand,</l>
+                  <l>But never be upon the losing hand.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Come, though a slip there has been by the way,</l>
+                  <l>She's n'er the worse, as when you've try'd you'll say;</l>
+                  <l>Her industry amends for that will make;</l>
+                  <l>Then for one failing do not her forsake.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Come <hi>Cupid,</hi> try thy shaft on this coy Maid,</l>
+                  <l>She will comply, though now she seems afraid;</l>
+                  <l>When her first blushes are by time worn out,</l>
+                  <l>She'll grow familiar, and soon come about.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Now, Mistress, you have thrown well in a trice,</l>
+                  <l>And are the happy Favourite of the dice;</l>
+                  <l>A Man of Parts and Wealth you soon shall wed,</l>
+                  <l>And of a Boy the first year brought to bed.</l>
+               </lg>
+               <lg n="7">
+                  <pb n="4" facs="tcp:206941:4"/>
+                  <head>7.</head>
+                  <l>It matters not, although he's something old,</l>
+                  <l>There is, to answer that, good store of Gold:</l>
+                  <l>You shall go gay, and with what he does leave</l>
+                  <l>Gain a young Husband that Love's due will give.</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>Well, you may think of love, but 'tis not yet,</l>
+                  <l>The Stars decree you prosperously should hit;</l>
+                  <l>However, ben't cast down, your lot is fair,</l>
+                  <l>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d you'll be marry'd before your last prayer.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Well done, I say, the Party that you like,</l>
+                  <l>Will in a little time the bargain strike;</l>
+                  <l>Some doubts and fears at present hinders it,</l>
+                  <l>But those blown ov'r, what you desire you'll get.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Come on, brisk Lover, now's your time to speed,</l>
+                  <l>But little trouble in it you will need;</l>
+                  <l>
+                     <hi>Venus,</hi> the Queen of Love, does seem to smile,</l>
+                  <l>And she no longer will your hopes beguile.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>There's something in it, but it will not do,</l>
+                  <l>So you must stay, at least, a Year or two;</l>
+                  <l>Yet when the circling Sun has run that course,</l>
+                  <l>Then comes, <hi>I take for Better or for Worse.</hi>
+                  </l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Hold up thy head, though crosses have been many,</l>
+                  <l>From this time forth you scarce will light of any;</l>
+                  <l>Riches await you in a marriage State.</l>
+                  <l>And it comes happy, though it comes but late.</l>
+               </lg>
+            </div>
+            <div type="questions">
+               <head>Questions relating to Friendship resolved, according to <hi>Cornelius Agrippa.</hi>
+               </head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>YOur Friends are few, though of those few you'll find</l>
+                  <l>They will to you in greatest need be kind:</l>
+                  <l>Be cautions then, and keep them still in store,</l>
+                  <l>For these once lost, 'twill hard be to get more.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>O! trust not those who flatter now, for they</l>
+                  <l>When a storm comes will leave you and away;</l>
+                  <l>'Tis now for int'rest that they are so kind:</l>
+                  <l>Reject them then, and your own business mind.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>The Party you suspect, you need not fear,</l>
+                  <l>The Stories all are false that you did hear;</l>
+                  <l>You safely may repose a confidence,</l>
+                  <l>And in so doing you'll find no offence.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>You have decieved been, which makes you doubt</l>
+                  <l>A true Friend you again cannot find out;</l>
+                  <l>Muse not so, though many false do prove,</l>
+                  <l>There's one who bears to you a cordial love.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Trust not too soon, before you more have try'd,</l>
+                  <l>Lest when you want this Friendship you'r deny'd;</l>
+                  <l>And then too late your trust in vain you'll see,</l>
+                  <l>And blame your self for your credulity.</l>
+               </lg>
+               <lg n="6">
+                  <pb n="5" facs="tcp:206941:4"/>
+                  <head>6.</head>
+                  <l>This offer'd kindness do not you despise,</l>
+                  <l>By it you will unto Preferment rise;</l>
+                  <l>With modesty receive, and never fear</l>
+                  <l>What others say, there is no danger near.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Try once again before you trust too far,</l>
+                  <l>And of what you have trusted have a care;</l>
+                  <l>Recal it, if you can, until you know</l>
+                  <l>Whether this Party is a Friend or Foe.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>No doubt there you will true Friendship have,</l>
+                  <l>Which nev'r will cease till parted by the grave,</l>
+                  <l>Death only can undo it, that is plain;</l>
+                  <l>In the mean while by it you'll reap much gain.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>This fawning is to try you, have a care</l>
+                  <l>You be not drawn by it into a snare;</l>
+                  <l>And when they find no more for them you'll do,</l>
+                  <l>They'll leave to flatter, and then laugh at you.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>In your distress you shall find a true Friend,</l>
+                  <l>One that will stand by you unto the end;</l>
+                  <l>When Kindred do forsake you, then you'll see</l>
+                  <l>Your comfort soon will from a Stranger be.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Come once more try, though you have lost before,</l>
+                  <l>There is no danger that loss to restore;</l>
+                  <l>A Female shall be kinder than a Male,</l>
+                  <l>By her assistance your cause shall prevail.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>By Female fraud beware you an't undone,</l>
+                  <l>Too late discover what you did too soon;</l>
+                  <l>Much mischief lurks within those smiles you court,</l>
+                  <l>And you unsafely with the danger sport.</l>
+               </lg>
+            </div>
+            <div type="questions">
+               <head>Questions relating to good or bad Success in Affairs, resolved by <hi>Socrates.</hi>
+               </head>
+               <lg>
+                  <l>UNhappy fortune in your middle days,</l>
+                  <l>But yet kind <hi>Phebus</hi> rules your birth, and says,</l>
+                  <l>A little time your crooked fate shall mend,</l>
+                  <l>And prosperous blessings crown you in the end.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Strugle no more, alas! it is in vain,</l>
+                  <l>The time's not come you shall your wish obtain;</l>
+                  <l>Yet such a time there is, and you shall see</l>
+                  <l>A sudden change, with much prosperity.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Mild <hi>Jove</hi> did rule thy birth, and gives success</l>
+                  <l>In all you undertake, more or less;</l>
+                  <l>To riches you shall rise, by ways unthought,</l>
+                  <l>And shall possess the things you never sought.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>By marriage shall your fortune much encrease,</l>
+                  <l>But in it I can't promise you much peace;</l>
+                  <l>Some jars will rise, procur'd by your Relations,</l>
+                  <l>Which will be multiply'd into vexations.</l>
+               </lg>
+               <lg n="5">
+                  <pb n="6" facs="tcp:206941:5"/>
+                  <head>5.</head>
+                  <l>Long life and happy, is decreed for thee,</l>
+                  <l>Then what if thou should'st not over handsome be?</l>
+                  <l>Nev'r vex at it, thy Money buys thee love;</l>
+                  <l>'Tis the great wheel which all the rest does move.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>By industry you labour must to thrive,</l>
+                  <l>And 'gainst the stream to gain wealth you must strive;</l>
+                  <l>But being gain'd, you may sit down at ease,</l>
+                  <l>Look back with joy on toils that did not please.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>More c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>osses are behind, old <hi>Saturn</hi> still,</l>
+                  <l>Who rul'd thy birth, makes thee perverse in will;</l>
+                  <l>Thou do'st not heed good councils, therefore know</l>
+                  <l>For this cause thy Affairs do backward go.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Something is promis'd by the watry Sign,</l>
+                  <l>
+                     <hi>Pices</hi> does likewise with <hi>Aquarius</hi> joyn;</l>
+                  <l>By Sea-adventures thou art born to thrive,</l>
+                  <l>Or else in vain for what you wish you strive.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Dying Relations shall promote thy state,</l>
+                  <l>And by what they do leave thou maist grow great,</l>
+                  <l>If thy own sol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y hinder not the chance,</l>
+                  <l>That should thee in a little time advance.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Oh! be not hasty in pursuing wealth,</l>
+                  <l>Thy <hi>Mercury</hi> says it will be lost by stealth;</l>
+                  <l>But be contented with a mean estate,</l>
+                  <l>Strive what thou canst thou never shalt be great.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>So, 'tis well thrown, a portion is thy lot,</l>
+                  <l>It brings thee Friends, and pleasure, and what not:</l>
+                  <l>But yet be wise, that it may thee advance;</l>
+                  <l>'Twas not deserved, but prov'd the hit of Chance.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Ill-luck betides thee, nothing yet will do;</l>
+                  <l>You must new methods, and new ways pursue,</l>
+                  <l>Or else he sure you'd find no prosperous gale</l>
+                  <l>Of Fortune will with full gust spread your sail.</l>
+               </lg>
+            </div>
+            <div type="questions">
+               <head>Whether one shall ma ry the Party desired, and when? resolved by <hi>Plato.</hi>
+               </head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>NOt yet so fast, this Party's not your lot,</l>
+                  <l>Another has a former promise got;</l>
+                  <l>Your nuptial-day still at some dist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce stands,</l>
+                  <l>'Tis with one yet unknown you must joyn hands.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Come, stand no longer out, lest you out-stay</l>
+                  <l>The time that must alot the happy day;</l>
+                  <l>Within three Moons, if you would be well sped,</l>
+                  <l>It is decreed you must yield to be wed.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Came not the Party by the other day,</l>
+                  <l>With whom you willingly could sport and play?</l>
+                  <l>Yes; blush not, and it shall be once your lot;</l>
+                  <l>But yet a while you must not be too hot.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="7" facs="tcp:206941:5"/>
+                  <head>4.</head>
+                  <l>Alas! I grieve to think you must long stay,</l>
+                  <l>And ten to one but always so you may;</l>
+                  <l>However, Fate may alter this decree,</l>
+                  <l>But 'twill be some years e're you marry'd be.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Nothing so sure as Marriage in a year,</l>
+                  <l>Though none court you now, yet many will appear</l>
+                  <l>Desirous of your love, and long to taste</l>
+                  <l>The pleasures that are stow'd beneath your waste.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Kindness is not amiss, if you see right,</l>
+                  <l>For now Love promises you much delight;</l>
+                  <l>Your year is come, that <hi>Venus</hi> sets the Prize,</l>
+                  <l>Delay no longer, marry and be wise.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>To forty odd, I much fear, you will stay,</l>
+                  <l>'Tis so much niceness made you this delay;</l>
+                  <l>This is not handsome, that not rich, you cry;</l>
+                  <l>But with more faults you will at last comply.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>You long have tarried, but 'tis not in vain,</l>
+                  <l>The thirtieth year is coming on amain;</l>
+                  <l>In that your lot is cast, then be content,</l>
+                  <l>And you will not of staying e're repent.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Well meant, it has been long, but now indeed,</l>
+                  <l>All doubts remov'd, it will be soon agreed;</l>
+                  <l>A merry <hi>Christmas</hi> you this year will keep,</l>
+                  <l>And most contentedly in soft arms sleep.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Nothing shall hinder, when nine months are gone,</l>
+                  <l>Till then contented be to lie alone:</l>
+                  <l>Or if some slip you make, the knot must be</l>
+                  <l>Deferr'd to be fast ty'd till months thrice three.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>A little longer you are bound to stay,</l>
+                  <l>But 'tis for one will keep you fine and gay:</l>
+                  <l>Let it be never said then that you grieve,</l>
+                  <l>Since by delay you benefits receive.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>E're five and twenty, though you think it long,</l>
+                  <l>You shall be wed, and find you have no wrong;</l>
+                  <l>Whilst many be unhappy in their choice,</l>
+                  <l>Yours shall be such as will make you rejoyce.</l>
+               </lg>
+            </div>
+            <div type="questions">
+               <head>Whether Love be real or not, resolved by <hi>Aristotle.</hi>
+               </head>
+               <lg>
+                  <l>THe Party that does make this offer,</l>
+                  <l>Means as he says, then take his proffer;</l>
+                  <l>And you'll be happy all your Life,</l>
+                  <l>If you prove a chaste loving Wife.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>No more of this, it will not do,</l>
+                  <l>'Tis all a sham, he does not wooe,</l>
+                  <l>That he intends at last to wed,</l>
+                  <l>But 'tis to get your Maiden-head.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="8" facs="tcp:206941:6"/>
+                  <head>3.</head>
+                  <l>Believe this matter, for you truly may,</l>
+                  <l>There is much truth in what your Love does say;</l>
+                  <l>If little scruples can make you deny,</l>
+                  <l>I cannot promise when you will comply.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Alas! she does but flatter, to see how</l>
+                  <l>She can your mind to Love's subjection bow:</l>
+                  <l>Go seek another, let her go, for she</l>
+                  <l>Dissembles, and will never yeild to thee.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Behold the eyes, and see they speak</l>
+                  <l>What from the heart dare not yet break;</l>
+                  <l>There's true affection lodg'd within;</l>
+                  <l>And you whate're you will may win.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>I cannot tell now what to say▪</l>
+                  <l>It doubtful stands, but don't delay,</l>
+                  <l>Keep up the humour, and you'll see</l>
+                  <l>Whether it love or friendship be.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>There's something breeding in the mind,</l>
+                  <l>And fain a passage thence would find;</l>
+                  <l>Alas! 'tis love, come never doubt,</l>
+                  <l>Though now imprison'd 'twill break out.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>There is another in the way,</l>
+                  <l>Which makes this trifling and delay;</l>
+                  <l>Therefore believe not what is said,</l>
+                  <l>He loves and courts another Maid.</l>
+               </lg>
+               <lg n="9">
+                  <head>9</head>
+                  <l>There is no fear, the matter now is plain,</l>
+                  <l>If you can love you will be lov'd again;</l>
+                  <l>A rub or two there in the way may prove,</l>
+                  <l>But true kindness will it at last remove.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>O banter not this pretty Lass, you Knave,</l>
+                  <l>You of a Wife already make a Slave;</l>
+                  <l>Would you a ruin pull down on her head;</l>
+                  <l>She will not have thee though thy Wife were dead.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Enquire well here, before you go too far,</l>
+                  <l>Between you and your wish there is a bar;</l>
+                  <l>Another in your absence came between,</l>
+                  <l>And his love to you is as it n'er had been.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>You will make nothing on't, though you spend time,</l>
+                  <l>And put off others, loytering for him;</l>
+                  <l>Call in you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wand'ring senses, and you'll see</l>
+                  <l>All these pretences are but flattery.</l>
+               </lg>
+            </div>
+            <div type="questions">
+               <head>Whether you shall obtain what you wish or desire, resolved by <hi>Parinesius.</hi>
+               </head>
+               <lg>
+                  <l>WHat you desire, at first will be deny'd,</l>
+                  <l>But no doubt granted when you thrice have try'd;</l>
+                  <l>Yet wish no more of this kind, lest you fail,</l>
+                  <l>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce many miss where one does e're prevail.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="9" facs="tcp:206941:6"/>
+                  <head>2.</head>
+                  <l>There is a prospect that you wish should take,</l>
+                  <l>But then you must a better int'rest make;</l>
+                  <l>You have some Friends to help you in your need,</l>
+                  <l>And if in this they do't, they're Friends indeed.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>You wish for one that is for you too high,</l>
+                  <l>And wish in vain, for she will ne'er comply:</l>
+                  <l>Therefore withdraw your thoughts; then I do tell</l>
+                  <l>You'll meet with one you'll live withal as well.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>There's something in't, I doubt not but 'twill do,</l>
+                  <l>You wish for one that wishing is for you;</l>
+                  <l>And when your minds are to each other eas'd,</l>
+                  <l>You in your wishes shall be joyntly pleas'd.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Alas! No, no, why will you wish to be</l>
+                  <l>What Fortune, or <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Fates did ne'er decree?</l>
+                  <l>Lay by such fond desires, and be more meek,</l>
+                  <l>You never will obtain what now you seek.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>'Tis a bold thought, which if you will improve,</l>
+                  <l>In time will raise you to the Lady's love;</l>
+                  <l>But if your present purpose you neglect,</l>
+                  <l>No more than what you now enjoy, expect.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>You have but wish'd, and Fortune does consent,</l>
+                  <l>You shall have what you wish to your content:</l>
+                  <l>No envious star does interpose your bliss,</l>
+                  <l>But a long scene you'll have of happiness.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>There was a time you might have had your will,</l>
+                  <l>But 'tis too late, Time's wheel, that ne'er stands still,</l>
+                  <l>Has wound up all the bottom of your hope,</l>
+                  <l>And to renew't there is no further scope.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>O! this will do, come waver not in mind,</l>
+                  <l>What you desire to have, at last you'll find:</l>
+                  <l>Patience is all, till the time comes about,</l>
+                  <l>Which will be quickly here, I make no doubt.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>No matter what some say, do not despair,</l>
+                  <l>Your cause is good, and what you wish stands fair:</l>
+                  <l>'Tis true, some disappointments will be had,</l>
+                  <l>But those blown over, you'll again be glad.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>You wish for one who is to Heaven gone,</l>
+                  <l>One whose long voyage in this World is done;</l>
+                  <l>Though you knew't not, yet Fortune tells you plain,</l>
+                  <l>If you wish on, your wishes are in vain.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>What would you have? Wishes your wish confute,</l>
+                  <l>Those you think Friends, wish to prevent your suit;</l>
+                  <l>They labour hard to keep you in low state,</l>
+                  <l>L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st you should get your own, when you are great.</l>
+               </lg>
+            </div>
+            <div type="questions">
+               <pb n="10" facs="tcp:206941:7"/>
+               <head>How many Husbands or Wives a Party shall have, resolved by <hi>Xenophon.</hi>
+               </head>
+               <lg>
+                  <l>THe first shall kind and very pleasing be,</l>
+                  <l>But Fate forbids him long to live with thee:</l>
+                  <l>Two more succeed, the first of these proves bad,</l>
+                  <l>The next not like unto the first you had.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Thy Wife's but one; by slow consumption thou</l>
+                  <l>Shalt linger h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re, and so before her go;</l>
+                  <l>But she thy memory shall keep in mind,</l>
+                  <l>And for thy sake no second marriage bind.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Oh! my young Girl; hark, I will tell you what,</l>
+                  <l>Thou wilt have Husbands five unto thy lot;</l>
+                  <l>The last shall lay you in a handsome Grave,</l>
+                  <l>And spend extravagant whate're you leave.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Two I presage; the first shall handsome be,</l>
+                  <l>And shall be lov'd by many besides thee;</l>
+                  <l>But dying poor, thou marry shall for Wealth,</l>
+                  <l>And often Cuckold the old Man by stealth.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Alas! there's none that I can find for you;</l>
+                  <l>You have unconstant been, not to a few,</l>
+                  <l>Which frightens others; wherefore I'm afraid,</l>
+                  <l>You'll stay too long, and at last die a Maid.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>How! nine, my Dear: O monstrous, that you can</l>
+                  <l>Venture on nine, nine Taylors make a Man;</l>
+                  <l>Perhaps 'tis meant so; One so small as you,</l>
+                  <l>Certainly with nine Men can never do.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Alack, alack, you'll an old Woman wed,</l>
+                  <l>And have a coughing Granney in your bed,</l>
+                  <l>Till weary'd out; but in some years she'll die;</l>
+                  <l>And with her wealth a young One you will buy.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Why, you wou'd have more than comes to your share,</l>
+                  <l>And yet of venturing often have a care;</l>
+                  <l>For like the mouse that nibbles at the cheese,</l>
+                  <l>If you beware not, you will have a squeese.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Beware a second Match, thought it will come,</l>
+                  <l>And for your former shrewdness pay you home;</l>
+                  <l>The first you do use h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rshly, but the last</l>
+                  <l>You'll fawn on, for all that your bones he'll baste.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Come lift your head up, though you are grown stale;</l>
+                  <l>There's one reserv'd, ne'er let your courage fail;</l>
+                  <l>A Man that tosses the steel-bar's your lot,</l>
+                  <l>An honest Taylor you will have, God wot.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Hold, hold my Friend; what is it that you do?</l>
+                  <l>You aim at three, and are to have but two:</l>
+                  <l>The third must in another wedlock joyn;</l>
+                  <l>You'll hear your Neighbour say, <hi>He must be mine.</hi>
+                  </l>
+               </lg>
+               <lg n="12">
+                  <pb n="11" facs="tcp:206941:7"/>
+                  <head>12.</head>
+                  <l>Nothing so sure, as this is a good throw,</l>
+                  <l>Why, Girl, thou shalt in silks and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>attins go;</l>
+                  <l>But yet the Stars to thee may prove unkind,</l>
+                  <l>You dying young, your Husband leave behind.</l>
+               </lg>
+            </div>
+            <div type="questions">
+               <head>Whether a Woman shall have Children, and how many, <hi>&amp;c.</hi> resolved by <hi>Seneca.</hi>
+               </head>
+               <lg>
+                  <l>A Child within a twelve month you shall have,</l>
+                  <l>'Twill be a Boy as you your self did crave;</l>
+                  <l>But being grown, untoward it will prove;</l>
+                  <l>Then comes a Girl that must possess your love.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Two Boys, and a fair Girl is all thy lot,</l>
+                  <l>The latter is not by thy Husband got,</l>
+                  <l>And when she's fifteen, wed her without fail,</l>
+                  <l>Or else she will be playing with her tail.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Though long you wisht for one, it will not be</l>
+                  <l>Till you have marry'd been years two times three;</l>
+                  <l>And though it sickly be, it will survive,</l>
+                  <l>Then getting strength it will grow up and thrive.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Make haste and marry, for you pregnant are,</l>
+                  <l>For he that got it will not for you care;</l>
+                  <l>Take the next Offer, least your credit smoak,</l>
+                  <l>Which can be saved now only by a Cloak.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Two Twins you will have at the second birth,</l>
+                  <l>A Boy and Girl which shall cause you much mirth</l>
+                  <l>After the danger 'scapt, and then no more</l>
+                  <l>Falls to your lot; make much then of this store.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>You marry'd late, and therefore ten to one</l>
+                  <l>Although you try for Children, you'll have none;</l>
+                  <l>However, with your fortune be content,</l>
+                  <l>Your days they will with lesser care be spent.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>No<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hing but Girls, shews you cold natur'd are,</l>
+                  <l>Then to restore it heating meats prepare,</l>
+                  <l>Which in the end, as your long wish'd for Joy,</l>
+                  <l>Shall make you smile upon a lusty Boy.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>No more repine, you will not barren be,</l>
+                  <l>The Father shall rejoyce an Heir to see;</l>
+                  <l>Though late it come, 'tis such, I dare engage,</l>
+                  <l>As shall a Comfort be to your old Age.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Three Children and no more, 'tis you must have;</l>
+                  <l>Yet two will early drop into the Grave:</l>
+                  <l>These by two Husbands you will kindly breed,</l>
+                  <l>Then be contented with what is decreed.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>As yet no hopes or sign there does appear,</l>
+                  <l>Yet trust to Chance, endeavour and don't fear;</l>
+                  <l>The fault is not in you, seek out for Aid,</l>
+                  <l>And so a pretty Infant will be made.</l>
+               </lg>
+               <lg n="11">
+                  <pb n="12" facs="tcp:206941:8"/>
+                  <head>11.</head>
+                  <l>One only 'tis shall make your heart grow glad,</l>
+                  <l>You shall rejoyce again though now you're sad,</l>
+                  <l>And though you now may think it strange to tell,</l>
+                  <l>Within nine weeks you'll find your belly swell.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Nothing, alas! as yet, I promise can,</l>
+                  <l>Before you seek for some more able Man;</l>
+                  <l>'Tis here you grieve, and cry, and sigh in vain,</l>
+                  <l>The next you wed, shall ease you of your pain.</l>
+               </lg>
+            </div>
+            <div type="questions">
+               <head>Whether Friends absent be in health, and if return, resolved by <hi>Tresmegistas.</hi>
+               </head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>IN health, be sure, though business does delay</l>
+                  <l>The time appointed, on the parting day;</l>
+                  <l>And when you least suspect it, you will see</l>
+                  <l>The Party you desire from danger free.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Some sickness does detain whom you desire,</l>
+                  <l>But yet by it the Party won't expire;</l>
+                  <l>You'll have a letter speedily, and so</l>
+                  <l>Whatever has befallen, you may know.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Alas! another Beauty he has found,</l>
+                  <l>Which chains his heart, by giving it a wound;</l>
+                  <l>Though but by chance he's Captive to her eyes,</l>
+                  <l>He never will return to be your Prize.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>The Winds and Seas detain your only Joy,</l>
+                  <l>And Fortune threatens your hopes to destroy;</l>
+                  <l>Yet hope the best, and be not in such pain,</l>
+                  <l>Those stars that threaten now, long will not reign.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>'Tis a long journey, but at last will end,</l>
+                  <l>And you again may welcome home your Friend;</l>
+                  <l>When double joys shall flow for absence long,</l>
+                  <l>As waves divided, joyning grow more strong.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Against the Party's will it is he stays,</l>
+                  <l>Some trouble does occasion these delays;</l>
+                  <l>His kindness is no less than 'twas before,</l>
+                  <l>'Tis you, and only you he does adore.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Come, be not melancholy, she will come,</l>
+                  <l>And what she gets abroad, she'll bring you home:</l>
+                  <l>What if it be a Child? the Father's wealth</l>
+                  <l>In publick will maintain what's got by stealth.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>I fear no more the Party will return,</l>
+                  <l>Then cease your doubtful thoughts, and do not mourn;</l>
+                  <l>Get you anoth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r Friend, whose constancy</l>
+                  <l>May let you see all will not from you fly.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Go search the Town, in some odd nook you'll find,</l>
+                  <l>Your late stray'd Sheep, who's gone cause you'er unkind;</l>
+                  <l>Shew more resp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct to such desert, and then</l>
+                  <l>You'll happy live, and never part again.</l>
+               </lg>
+               <lg n="10">
+                  <pb n="13" facs="tcp:206941:8"/>
+                  <head>10</head>
+                  <l>Come, <hi>Boreas</hi> blow, and spread the drooping sails,</l>
+                  <l>Bring home this Wight again with prosperous gales;</l>
+                  <l>His love is constant, though you parted are,</l>
+                  <l>As at his safe return he will declare.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>She's fled into another's arms, and you,</l>
+                  <l>By your delays have lost a Lover true;</l>
+                  <l>Your slights destroy'd the passion of her mind,</l>
+                  <l>To raise a new one for him that's more kind▪</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>As a scar'd Lark do's circling take its flight,</l>
+                  <l>And in the same place where it rose first light;</l>
+                  <l>So she is gone, but can't long absent be,</l>
+                  <l>Her loves too strong to keep her long from thee.</l>
+               </lg>
+            </div>
+            <div type="questions">
+               <head>Whether Love be true or feign'd, good to marry, <hi>&amp;c.</hi> resolved by <hi>Xenotrates.</hi>
+               </head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>THis match some hindrance meets, but it will speed;</l>
+                  <l>'Twill happy prove, and a good match indeed:</l>
+                  <l>Your love's begun under a happy star,</l>
+                  <l>And Fortune to promote it took much care.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Fear not to marry, your's will be the gain,</l>
+                  <l>There is much pleasure for a little pain;</l>
+                  <l>A little time o'er-slipt, may ever lose</l>
+                  <l>What you would after, but you cannot chuse.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>There is no danger, though your Friends deny,</l>
+                  <l>When once your marry'd they will soon comply;</l>
+                  <l>'Tis pity you have stay'd so long indeed,</l>
+                  <l>Delay no longer then, but now proceed.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>What do you ask me?—No, it is not best,</l>
+                  <l>This match will ever rob you of your rest,</l>
+                  <l>Your time's not yet, another year is due</l>
+                  <l>To time, before Fortune can pleasure you.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>This has a prospect of good luck I see:</l>
+                  <l>And that it may still successful be,</l>
+                  <l>Pray take advice, for the concern bears weight,</l>
+                  <l>When once your'er enter'd there is no retreat.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>'Tis honestly begun and so will end,</l>
+                  <l>On what is said you fully may depend;</l>
+                  <l>Then mind not worldly wealth, for 'tis in vain,</l>
+                  <l>Since vertue here will be the greatest gain.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Stay,—stay, be not too hasty, let time prove</l>
+                  <l>How you can like, and well each other love;</l>
+                  <l>What is't that does unhappy marriage make?</l>
+                  <l>Because they blindfold do each other take.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>This match I disapprove, persist no more,</l>
+                  <l>There is a better yet remains in store;</l>
+                  <l>Try once again, the stars are not unkind,</l>
+                  <l>And speedily you will a fitter find.</l>
+               </lg>
+               <lg n="9">
+                  <pb n="14" facs="tcp:206941:9"/>
+                  <head>9.</head>
+                  <l>There's wealth, but l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ttle love; this seems to me</l>
+                  <l>But oddly in this union to agree;</l>
+                  <l>Yet, time may change, and alterations make,</l>
+                  <l>I'll not forbid that you each other take.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>O! <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y all means pursue what you begun,</l>
+                  <l>And leave <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot now your <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>usiness half undone;</l>
+                  <l>There's no such time as when the Queen of Love,</l>
+                  <l>Ascendant is among the St<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs above.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>No more, I say, but were my self to choose,</l>
+                  <l>I were a Fool this offer to refuse;</l>
+                  <l>Your market's made, if you this bargain have,</l>
+                  <l>It is well worth whatever you have gave,</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>I can't but wonder, that you do stand out,</l>
+                  <l>When all conspire to bring the thing about;</l>
+                  <l>Beware tha you repent it not too late,</l>
+                  <l>He's fickle, and may have another Mate.</l>
+               </lg>
+            </div>
+            <div type="questions">
+               <head>Whether Affairs prosperous, and by what means, <hi>&amp;c.</hi> resolved by <hi>Alb. Magnus.</hi>
+               </head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>SOme crosses there are past, and some behind;</l>
+                  <l>Yet you a comfortable life may find,</l>
+                  <l>If you contented be in your estate,</l>
+                  <l>Aspiring not to be o're rich or great.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>A middle fortune is for thee decreed,</l>
+                  <l>And in most undertakings you'll succeed:</l>
+                  <l>What most you fear shall not be your annoy;</l>
+                  <l>Then let no needless cares your peace destroy.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> marriage you shall to preferment rise.</l>
+                  <l>If in the management you prove but wise:</l>
+                  <l>You'll find a Friend you little did expect,</l>
+                  <l>That you in this affair will well direct.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>In plenty <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ou a long life may obtain,</l>
+                  <l>If mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erate, from excess you do refrain:</l>
+                  <l>Frie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ds you'll have many, and adventures will</l>
+                  <l>Your bags and coffe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h much treasure fill.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>What has be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n past cannot amended be,</l>
+                  <l>To wha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'s to come you must then better see:</l>
+                  <l>By trading you'll <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>est thrive, and get again</l>
+                  <l>What has mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>carried, or been <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pent in vain.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>In rural matters you may prosper well;</l>
+                  <l>'Tis an unlucky place in which you dwell,</l>
+                  <l>Remove then and your luck will better be;</l>
+                  <l>This is a business that's not fit for thee.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>By merch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndize thou promis'd art much gain.</l>
+                  <l>Physick nor law will never thee maintain;</l>
+                  <l>Go and adventure, for why the Seas and Wind</l>
+                  <l>Both promise in thy fortune to be kind.</l>
+               </lg>
+               <lg n="8">
+                  <pb n="15" facs="tcp:206941:9"/>
+                  <head>8.</head>
+                  <l>Your Friends, though they have little lest, did well</l>
+                  <l>To give good breeding, by which I do tell</l>
+                  <l>You shall to favour rise, and though but late,</l>
+                  <l>Out of that favour raise a good Estate.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>The Court and City are the places where</l>
+                  <l>Fortune alots success unto your share;</l>
+                  <l>In trading it is best; too far don't trust</l>
+                  <l>Lest when all's done you do come by the worst.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>In some fine Country-market-town is best,</l>
+                  <l>You may for little there live well at rest;</l>
+                  <l>And by frugality your self maintain,</l>
+                  <l>As well as those that have both flocks and grain.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>'Tis a good Husband by which you must speed.</l>
+                  <l>Or else from cares you scarcely will be freed,</l>
+                  <l>Despair not of one, though you won't go down</l>
+                  <l>I'th' Country, you will please well in the Town.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Good Housewifry shall make you mainly take,</l>
+                  <l>So that there's many soon shall you bespeak:</l>
+                  <l>A Country-life in comfort you may find,</l>
+                  <l>If that your Husband's Friends prove not unkind.</l>
+               </lg>
+            </div>
+            <div type="questions">
+               <head>What manner of Party one shall marry, resolved by <hi>Ximen<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>HE that thou art design'd to wed,</l>
+                  <l>Shall have black hair, a cherry-red</l>
+                  <l>Shall in his blushing ckeeks appear,</l>
+                  <l>And he shall love thee very dear.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Thou shalt have one a lovely <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n,</l>
+                  <l>A proper Youth, who'll lay thee down,</l>
+                  <l>And will so often please thee well,</l>
+                  <l>That soon he'll make thy belly swell.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>A comely Blade, with a high nose,</l>
+                  <l>And dimpl'd chin, shall with thee close;</l>
+                  <l>When such a one does come to wooe,</l>
+                  <l>Lay coyness by, and hug him too.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>O lemene! a Man with yellow hair,</l>
+                  <l>Right for the stroke shall to thee soon repair;</l>
+                  <l>'Tis <hi>Venus</hi> colour, and is always true</l>
+                  <l>To love, and gives a Woman her full due.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>She's coming, with a dimple in her chin,</l>
+                  <l>That is to hold you tack at inn and inn;</l>
+                  <l>Her ruby lips kind kisses will afford,</l>
+                  <l>And you may take her on my honest word.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Black eye-brows, with a sparkling diamond eye,</l>
+                  <l>Has she, for which with good and all you'll lye;</l>
+                  <l>A wanton air she carri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s in her looks,</l>
+                  <l>And for to take you, lays out all her hooks.</l>
+               </lg>
+               <lg n="7">
+                  <pb n="16" facs="tcp:206941:10"/>
+                  <head>7.</head>
+                  <l>Come, flaxen-hair, this Maiden is thy due,</l>
+                  <l>Approach then without fear, and briskly wooe:</l>
+                  <l>What though he is low statur'd, Virgin, know</l>
+                  <l>The longest grass does in the vallies grow.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>He's a dark brown, pale, tall, and very fair,</l>
+                  <l>Who soon will purchase thy most secret ware:</l>
+                  <l>With whom you'll live a happy, jolly life,</l>
+                  <l>And he'll be well content with such a Wise.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Now, Sir, your lot turns up, her dimpl'd cheek,</l>
+                  <l>And <hi>Venus</hi>'s mole, a buxom Lass bespeak;</l>
+                  <l>Her hair inclining unto red you'll see,</l>
+                  <l>Who is design'd, by Fortune's care, for thee.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>O! hang not back, my pretty I ass come on,</l>
+                  <l>See where he's coming that must be your own;</l>
+                  <l>Dark colour'd eye-brows, and a peircing eye,</l>
+                  <l>Marked out for thee with a fore head high.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>That Party who must wen you, you n'er saw,</l>
+                  <l>His picture to you I'll however draw;</l>
+                  <l>He's middle statur'd, hair a lightish brown,</l>
+                  <l>Grey eyes, wide mouth'd, belonging to the gown.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>O stay, my Friend, the stars decree thee one,</l>
+                  <l>Of Country-breed, no Flutter of the Town;</l>
+                  <l>She's pretty, plump, white hair'd, round fac'd, black ey'd,</l>
+                  <l>Her you will love, and she must be your Bride.</l>
+                  <l>
+                     <figure/>
+                  </l>
+               </lg>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="17" facs="tcp:206941:10"/>
+            <head>The Art and Use of Phisognomy and Palmistry.</head>
+            <div type="part">
+               <head>
+                  <hi>I.</hi> Rules and Directions for Judging of Good or Bad Fortune, by the Lines and Marks in the Hand, Wrist, <hi>&amp;c.</hi>
+                  <figure/>
+               </head>
+               <p>BEfore I enter upon this, I must give a little Light into it, for the better Un<g ref="char:EOLhyphen"/>derstanding of the Reader, who may thereby the better know the Lines and Parts I shall have occasion to maintain:</p>
+               <p>That called the Line of Life, incloses the Thumb, separating it from the hollow of the Hand. The Natural Line takes its beginning at the rising of the Fore-finger, near the Line of Life, and ends at the Ball of the Thumb. The Brain-line or Liver-line, reaches to the Table-line, most commonly making a Triangle thus ▵. The Table-line, or Line of Fortune, begins under the Little-finger, and ends near the Middle-finger. The Girdle of <hi>Venus,</hi> a Line so called, begins near the Joynt of the Little-finger, and ends between the Fore-finger and the Middle-finger. The Line of Death, is that which plainly appears in a Counter-line to that of Life, and is by some called the Sister line, ending usually as the other ends. There are several Lines in the Wrist, in some more, in some less, call'd by Artists <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s<g ref="char:EOLhyphen"/>cela,</hi> also the fleshy Parts, as the Ball of the Thumb, out-side of the Hand, and under the Fingers are called Mounts, and are every one govern'd by several Planets; and the Hollow is called the Plain of <hi>Mars,</hi> as these Verses discribe them,
+<q>
+                     <l>The Thumb's rule we to <hi>Venus</hi> do commit,</l>
+                     <l>The Fore-finger to rule <hi>Jove</hi> does think fit;</l>
+                     <l>
+                        <hi>Saturn</hi> the next he does dispose and guide;</l>
+                     <l>To the <hi>Sun</hi>'s Influence still the third is ty'd;</l>
+                     <l>The out-side Brawn the <hi>Moon</hi> does still direct;</l>
+                     <l>The Plain, or Hollow, <hi>Mars</hi> he does affect,</l>
+                     <l>The least Finger has <hi>Mercury</hi>'s Aspect.</l>
+                  </q>
+               </p>
+               <pb n="18" facs="tcp:206941:11"/>
+               <p>Thus having introduced you, I proceed to what relates to Good and Bad For<g ref="char:EOLhyphen"/>tune by these Lines and Characters, <hi>&amp;c.</hi>
+               </p>
+               <div type="section">
+                  <head>The Characters of Letters which are called sacred, are often found Imprinted upon the Hands of both Sexes, to foreshew strange and wonderful Things that may befal them; therefore an</head>
+                  <p>
+                     <hi>A</hi> Being found between the Mount of the <hi>Moon,</hi> and the Hollow of the Hand, denotes the Person sickly, and subject to Losses, Imprisonment, and other Misfortunes; but if on the Mount of <hi>Venus,</hi> speedy and happy Marriages, store of Children, much Joy and Prosperity. If it be in the Hollow, it denotes much Strife, Wrangling, Heats, and sometimes sudden Death.</p>
+                  <p>If <hi>T</hi> happen on the Mount of <hi>Venus,</hi> it denotes Success by Marriage, and good Fortune; but if it cut the Line of Life, the contrary. If it stands between the Finger and the Thumb, a rich Wife is promised, and the like to a Woman in a Husband. If on the Little fingers of a Man, he shall be much vexed and crossed by Women; if not at last lose his Life i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the quarrel of a Female.</p>
+                  <p>
+                     <hi>G</hi> on the Mount of <hi>Venus,</hi> presages good Success in Love, and many Friends; but if in the Hollow of the Hand, it denotes Strife and Trouble. If it happen under the Fore-finger, it denotes Riches and Advancement.</p>
+                  <p>
+                     <hi>C</hi> on the Root of the Middle-finger, denotes a Person very lustful and insatiate in Carnal Desires. If it be on the Branch of the Line of Life, it signifies in Man an evil Temper, and that he will close with a bad end; in a Woman, that she will wast her Substance to supply her Lusts and wanton Desires.</p>
+                  <p>
+                     <hi>Z</hi> on the Root of the Little finger, denotes Prosperity, Honour and a good Name, but near the Wrist, the contrary. On the top of the Line of Life, it signifies Crosses in Marriage, Jealousie, and loss of Wealth. In the Little-finger it betokens Wisdom and Valour. Under the Little-finger, it denotes an Indifferency of Fortune. In the Plain of <hi>Mars,</hi> or the Mount of the Moon, it threatens Sickness and Death.</p>
+                  <p>
+                     <hi>S</hi> in the Triangle of the Line of Life and Table-line, denotes in Men Success and Victory; in Women easie Labour, and a healthful Constitution; but if on the Triangle towards the Wrist, it denotes the contrary.</p>
+                  <p>
+                     <hi>N</hi> on the Mount of <hi>Saturn,</hi> within the Girdle of <hi>Venus,</hi> denotes Ill-fortune; but in any other place, usually Success and Promotion.</p>
+               </div>
+               <div type="section">
+                  <head>Observations and Judgments to be made on the several Lines of the Hand.</head>
+                  <p>Always in Palmistry inspect the left Hand, the Lines therein being most obvious, and have the freest Communication with the Heart and Brain; and then proceed to give Judgment in the following manner:</p>
+                  <p n="1">1. It the Line of Life be fair to its full extent, and not broken with Cross-lines, it denotes Health and Long life: And the like if a double Line of Life appears: When three Stars appear in this Line, it threatens the Party with great Losses and Calamities: If there happen an Appearance like two <hi>O O</hi>'s or a <hi>Y,</hi> the sight will fail them young: If it twist with the Table-line, then Honour and Riches are promis'd to be gained by Prudence and Industry: If the Line be cut or jagged at the upper end, the party will be much afflicted with Sickness: Lines coming from the Mount of <hi>Venus,</hi> and cutting this Line, denotes the Party unfortunate in Love and
+<pb n="19" facs="tcp:206941:11"/> Business, and threatens sudden Death: A Cross between it and the Table line, denotes the Person of a noble Spirit, very Liberal and Charitable.</p>
+                  <p n="2">2. <hi>Table-line:</hi> This Line being broad and of a lively Colour, promises a health<g ref="char:EOLhyphen"/>ful Constitution, and contented Mind, and very Couragious: Crosses in it towards the Little-finger, denotes the Party to be much afflicted with Sickness: If the Line be double, or divided into three Parts, in any of the Extreamities, it de<g ref="char:EOLhyphen"/>notes good Fortune, and the Party of a generous Temper: This Line forked at the end, denotes Doubts, Fears, and Jealousies, Riches got by Deceit, and as soon lost: If three stops thus <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> are found in it, they denote the Party prudent and liberal, a Lover of Learning, and of a good Temper: If it branch towards the Fore or Middle-finger, and ends blunt, it denotes Preferment.</p>
+                  <p n="3">3. <hi>Middle-line:</hi> This has in it many times divers significant Characters, <hi>viz.</hi> Many small Lines between this and the Table-line, denote Sickness in young Years, but that the Party shall escape: A half Cross branching in this Line, promises the Party fortunate Success, Riches and Honour: A Half-moon threatens cold and watry Diseases: But a Sun or Star, Prosperity and Riches: This Line double in a Woman, denotes she will have many Husbands, but by them no Children.</p>
+                  <p n="4">4. <hi>Line of Venus:</hi> If this happens to be cut or divided near the Fore-finger, the Party's Ruin is threatened, by keeping bad Company, especially lascivious Women: Two Crosses upon the Line, one being on the Fore-finger and the other bending towards the Little finger, denotes the Party meek, inclined to a vertuous and mo<g ref="char:EOLhyphen"/>dest Course of Life; in Women it generally denotes Modesty, and therefore the wiser sort make it the Standard of choosing virtuous Wives.</p>
+                  <p n="5">5. <hi>Liver-line:</hi> This Line straight and crossed by other Lines, denotes the Par<g ref="char:EOLhyphen"/>ty of a sound Judgment: If it be winding and crooked, bending outward, it de<g ref="char:EOLhyphen"/>notes Deceit and Flattery: If it makes a Triangle or Quadrangle, it denotes the Person to be of a noble Descen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, ambitious of Promotion and Honours: If it hap<g ref="char:EOLhyphen"/>pen this Line, as well as the Middle-line, begin near each other, this betokens weakness of Judgment and Imbicility in a Man; and Danger to a Woman, by reason of hard Labours.</p>
+                  <p n="6">6. <hi>Plain of Mars:</hi> This is the Hollow of the Hand, and thro' it pass most of the Lines, therefore it is very significant, <hi>viz.</hi> The Plain being hollow, and the Lines crooked and distorted, denote the Party to fall by his Enemies: Then the Lines beginning at the Middle of the Wrist are long within the Plain, reaching towards the Brawn of the Hand, they declare a hot and fiery Spirit, given to Broils and Quarrels, to great Hurt and Damage: If deep large Crosses be in the middle of the Plain, it signifies the Party shall rise by Martial Deeds; if a Wo<g ref="char:EOLhyphen"/>man, that she shall have many Husbands, and be easie in bringing forth Children.</p>
+                  <p n="7">7. <hi>Line of Death:</hi> This Line is fatal when any Crosses and broken Lines ap<g ref="char:EOLhyphen"/>pear in it; they denote Sickness, and short Life: A clouded Moon appearing in it, denotes in a Woman Death in Child-bed; a bloody Spot signifies a violent Death; a Star, like a Commet, presages Ruin by War, or Death by Pestilence; but if a bright Sun appear therein, it betokens long Life. As for the Wrist-lines, they being fair, denote good Fortune; but if crossed and broken, the contrary.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:206941:12"/>
+               <head>
+                  <hi>II.</hi> A Judicial Account of Phisognomy: or, Good and Bad Fortune discover'd by Lines and Marks in the Face and parts thereof, <hi>&amp;c.</hi>
+                  <figure/>
+               </head>
+               <p>A Circle in the Line that passes crooked in the Fore-head, or a half Circle on a<g ref="char:EOLhyphen"/>ny part of it, denotes Loss and Disgrace, tho' undiscerned: Three straight Lines, without any crossing or dividing by S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions, promise Prosperity, and a for<g ref="char:EOLhyphen"/>tunate undertaking of Business: A Cross in the middle of the Fore-head, with scat<g ref="char:EOLhyphen"/>tering Lines near it, denotes much trouble, and perhaps a violent or uneasie Death: A crooked Line between two straight ones, promise good Fortune and success in Affairs: Four half Lines, or Lines that meet not in the middle of the Fore-head, with a full Line over them crossed or dissected, denote the Party to meet with many Crosses in worldly Affairs, but by Patience and Industry they shall be over come.</p>
+               <p>Two Lines bending arch wise over the Eye-brows, the one having a Cross on it, over which there are three short Lines in length on the extreamity of the Fore-he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, signifies the Party of great Ingenuity and Courage, Eloquent, Wife and Politick, indefatigable in Industry, and slow to Anger: A short straight Line o<g ref="char:EOLhyphen"/>ver the Eye brow, and over that three crooked Lines, like a Brace, to cover them, denote the Party of an uneasy and restless Mind, very covetous and laborious, and craving after things not attainable, which Attemps render him or her Unfortunate: Large Eyes denote the Party bold, but sloathful, and subject to many Misfortunes: Eve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> party colour'd, denote a Man or Women rash, hasty, passionate, and of little Stability: Eyes deep, and naturally sinking, especially of a greenish colour, promise much Industry, and the Party happy in most Undertakings; but not al<g ref="char:EOLhyphen"/>together free from vicious Practices: A sharp and piercing Eye, with a declining Eye-brow, denotes a deceitful and fraudulent Person, and unconstant and unsett<g ref="char:EOLhyphen"/>led in hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Love: A small Eye, deep set, denotes the Party of great Understand<g ref="char:EOLhyphen"/>ing, sound Judgment, and of a clear Sight, which will last to extream old Age: <hi>Squint-Eyes</hi> denotes the Party cunning timerous, deceitful, fraudulent and un<g ref="char:EOLhyphen"/>grateful; and therefore not to be trusted: A yellowish Eye foreshews a Dissem<g ref="char:EOLhyphen"/>bler,
+<pb n="21" facs="tcp:206941:12"/> and one false hearted, especially in matters of Love: An Eye of a mean bigness, clear and shining, denotes an honest plain Heart, free from Fraud or Dis<g ref="char:EOLhyphen"/>simulation.</p>
+               <p>A high Nose denotes Courage, and the Party much inclinable to Martial Ex<g ref="char:EOLhyphen"/>ploits; if a Woman, it denotes her very pregnant, and much desirious of Copu<g ref="char:EOLhyphen"/>lation: A large full Nose, long and hanging down, signifies the Party covetous, desirous of Honour, yet wise in mannaging great Affairs: A Nose crooked and awry, denotes the Party timerous, luxurious, proud, vain glorious, treacherous, ungrateful, fraudulent and unjust, and also a great Lyar: A Nose round and of a middle-size, denotes in Men Good nature and true Friendship; and in Women Prudence and Chastity.</p>
+               <p>A Mouth standing unseemly wide, denotes the Party bold and couragious, a great Talker, and a Reporter of false Stories: A Mouth little and well propor<g ref="char:EOLhyphen"/>tioned, denotes the Party peaceable, courteous, eloquent, and desirous to learn all things.</p>
+               <p>Thick Lips denote Foolishness, and one of an easie Belief, likewise given to Ex<g ref="char:EOLhyphen"/>cess: Thin Lips denote Eloquence and accure Understanding: Lips well propor<g ref="char:EOLhyphen"/>tion'd and well colour'd, denote the Party faithful, an Admirer of Vertue, and a Detester of Vice.</p>
+               <p>Big a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d broad Ears, denote Weakness of Memory, Sloathfulness and little Suc<g ref="char:EOLhyphen"/>cess: Long Ears denote Boldness, Arrogance, Folly, Contention and Gluttony; little Ear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and well proportion'd the contrary, as, Mildness, Temperance, <hi>&amp;c.</hi> Simi-circl'd Ears, lying flat, denote the Party wise, constant, and a true Friend.</p>
+               <div type="section">
+                  <head>The Signification of Moles on the Fac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and other Parts of the Body, as to Good and Bad Fortune, <hi>&amp;c.</hi>
+                     <figure/>
+                  </head>
+                  <p>A Mole on the left side of the Fore-head, under the Line of <hi>Saturn,</hi> in a Wo<g ref="char:EOLhyphen"/>man, denotes she has another on the right-side of her Breast, answerable in colour and proportion, denoting good Success and Riches, by Projecting, and In<g ref="char:EOLhyphen"/>dustry:
+<pb n="22" facs="tcp:206941:13"/> A Mole on the right-side of the Fore-head, denotes another on the right Arm, promising good Fortune, and many prosperous days: A Mole on the mid<g ref="char:EOLhyphen"/>dle of the Fore-head, denotes the Party subject to Sickness, and other Infirmities; also that there is another of the like colour and proportion between the Breasts: A Mole on the upper-side of the left Temple, denotes another in the extreamity of the Belly, signifying to a Man a steady Fortune, and continuation of Riches; to a Woman happy Marriages, and many Children: A Mole near the Eye<g ref="char:EOLhyphen"/>brow, on the right Temple, denotes another on the right Lyon, promising to either Sex much Esteem, Favour, Love and Advantage: A Mole on the right-side be<g ref="char:EOLhyphen"/>hind the Eye, as it were against the middle of it, signifies another on the right-side of the Buttock, promising much Honour and Preferment to a Man; and to a Woman much Praise for her Virtues, with a continuation of Prosperity: A Mole on the left-side, towards the upper-part of the corner of the Eye, denotes another under the left Loyn or Thigh, foreshewing to either Sex, Trouble, Peril, and dangerous Diseases, Discontent, and sometimes a violent Death: A Mole on the left-side the Face, near the corner of the Eye, denotes another on the left Buttock, and betokens much Sickness, Thwartings, and unexpected Crosses: A Mole on the left Cheek, inclining towards the lower part of the Ear, denote an<g ref="char:EOLhyphen"/>other on the left Thigh, signifying to a M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n much Perplexity, Crosses by Chil<g ref="char:EOLhyphen"/>dren, and Losses in Goods and Estate, threating a Woman with Death in Child-bed, or very hard Labour: A Mole on the upper-part of the right Ear, denote-another on the right-side of the Belly, signifies a Man will bring himself into great Danger by evil Practices; and that a Woman will prove Light and Inconstant: A Mole on the outward lower part, near to the middle of the right Ear, denotes another on the right-side, signifying a Man will fall under the Power of his E<g ref="char:EOLhyphen"/>nemies, and for sometimes be oppressed, though in the end he will prevail against them; to a Woman loss of Honour and Reputation: A Mole on the lower-part of the Eye-lid, between the hollow of the Eye, and the beginning of the Nose, in either Sex, denotes another on the Privy-parts, denoting a Man to be much beloved by Women, and fortunate in Marriage; to a Woman, that she will be Ingenious, Chast and Faithful: A Mole under the hollow of the right Eye, by the inward part of the Nose, denotes another near the Navel, signifying a Man to be Proud and Haughty, Furious and Contentious; and a Woman to be Self-conceited and Vain-glorious, of a weak Understanding, though pretending to much Knowledge: A Mole near the right Nostril, in a Man or Woman, signifies ano<g ref="char:EOLhyphen"/>ther on the right Shoulder, denoting to a Man good Fortune in all his Undertak<g ref="char:EOLhyphen"/>ings; and to a Woman Riches, Love and Chastity: A Mole on the Extreamity of the Nose, denotes another on the right Hip, signifying a Man to be lustful, and much given to <hi>Venus,</hi> weakning himself by it, and much impairing his Health; that a Woman shall be much Beloved, yet of a loose Behaviour: A Mole on the top of the Bridge of the Nose, in Man or Woman, denotes another on the Privy-parts, promising Success by Marriage, and many Children: A Mole on the left-side the Mouth, near touching it, denotes another on the left Arm, signifying the Party averse to Wedlock, and rather inclining to unlawful Copulation: A Mole on the middle of the Upper-lip, signifies another on the Privy-member of Man or Woman, denoting the Party to meet with many Disappointments, Crosses and Afflictions: A Mole in the middle of the Chin, denotes another on the Foot, sig<g ref="char:EOLhyphen"/>nifying the Party much given to Love, but meeting with many Disappointments:
+<pb n="23" facs="tcp:206941:13"/> A Mole on the Throat signifies another on the Navel, denoting much Danger by Violence, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Dreams, their Signification or Interpretation, as they relate to Good or Bad Fortune, <hi>&amp;c.</hi>
+                  </head>
+                  <p>TO dream you are bit by a Serpent is interpreted some Danger will befal you by secret and subtile Enemies To dream you flies in the Air, signifies a speedy Journey, or some hasty News: To dream you Fight, and Overcome, signifies you'll get the better in Law-suits, or other Controversies: To dream a Lyon fawns on you, denotes the Favour of great Persons. To dream of black Coffin and Mourners, denotes the Death of some loving Friend or Relation: To dream you see a Friend lie dead, denotes the Party to be in good Health: To dream you are in a Field of standing Corn, betokens Prosperity and Joy: To dream of gathering up small Pieces of Money, betokens Loss and Disappointment; but receiving of Money, Profit and Advantage: To dream you are on Horse<g ref="char:EOLhyphen"/>back, and that he runs-away with you, denotes you shall speedily be call'd away on some Business contrary to your Liking: A Woman dreaming she kisses another Woman, denotes Disappointment in Love, and Barrennes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: To dream you are pleasantly sailing on a calm Water, denotes a peaceable and quiet Life; but if a Storm arise, expect Troubles: For a Woman to dream a Ring is put on her Finger, denotes Success in Love, and Marriage; but if it be suddenly taken off, or fall off, it signifies Disappointment in Love, and the breaking off the Match: To dream of Fire, denotes Anger and Loss: To dream you see a Sow with Pigs, de<g ref="char:EOLhyphen"/>notes Fruitfulness: To dream you are a Hunting a Hair, and she escapes, betokens Loss and Disappointment in Business: To Dream a Gold-chain falls from your Neck, betokens the loss of the Favour of Friends: To dream you are courting a beautiful Woman, betokens Flattery: To dream you are forc'd against your Will to descend from a pleasant Hill, betokens falling from Promotion, and Disappoint<g ref="char:EOLhyphen"/>ment in Preferment: To dream of a sudden Fit of Joy, at the sight of any thing, betokens the Arrival of Friends: To dream you are at Banquets, but do not eat, betokens Scarcity: To dream one puts a new Glove on, and it remains so, be<g ref="char:EOLhyphen"/>tokens new Friendship, or Marriage: To dream you fall into a deep Pit, denotes some sudden Surprize and Danger: A Woman to dream she is with Child, denotes Sorrow and Heaviness: To dream that you quench Fire, denotes overcoming Anger, and a recovery from Sickness: To dream you hear a Voice, and see not who utters it, denotes you shall be deluded by feigned Pretenders: To dream you are walking in a Garden of Flowers, and among Groves of Trees, denotes much Pleasure and Delight to ensue in virtuous Conversation: To dream of Moons contending in the Firmament, denote Divisions among Friends and Relations: To dream your Teeth are drawn, or dropt out, deno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es the loss of Children, or other Relations: To dream of Drinking unmeasurably, denotes you will fall in<g ref="char:EOLhyphen"/>to some violent hot Disease: To dream of Thunder, Lightning, and a troubled Sky, denotes Displeasure, Crosses and Sickness: To dream you are pursued by furious Beasts, but cannot avoid them, denotes Danger from Enemies.</p>
+               </div>
+               <div type="section">
+                  <head>The Manner of Resolving doubtful Questions as to Good and Bad Fortune, by Astro<g ref="char:EOLhyphen"/>logy or Calculation of Nativities, <hi>&amp;c.</hi>
+                  </head>
+                  <p>IN this matter observe the time when the Question is demanded, consider the Planet that is Lord of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ascendant, and the Sign that is posited, then taking
+<pb n="24" facs="tcp:206941:14"/> the Dementions, erect a Scheme, in which, by comparing and making exact Pa<g ref="char:EOLhyphen"/>rallels and Divisions of the Figure, you will have your Nativity brought within view, so you may Understand how the Planet that ruled in it disposes, and from thence draw your Conjectures.</p>
+                  <p>As for Example: <hi>Whether one shall marry the Party desired?</hi> If <hi>Venus</hi> be then in the Seventh House, which is called the <hi>House of Marriages,</hi> or the Third Angular House, the Affair will, if begun at that time, be prosper<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+                  <p>If any Person make a Voyage when the Moon is in the Fifth House, it will be prosperous.</p>
+                  <p>If you fall sick when the Moon is in the Eighth House, which is called the <hi>House of Death,</hi> it is very dangerous. If you contract Friendship when she is in the Third, it will turn to great Advantage.</p>
+                  <p>If a Woman conceive when <hi>Venus</hi> is in the Fifth House, it will be a Male. <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> being Lord of your Nativity, promises Honour and Preferment. <hi>Mercury</hi> and <hi>Venus</hi> in the Fifth House, at the time of Conception, promises Twins. And this is the Rule for other matters.</p>
+               </div>
+               <div type="section">
+                  <head>Good and Bad Days relating to Sickness and Health, according to the Rule of Astro<g ref="char:EOLhyphen"/>logy, <hi>&amp;c.</hi>
+                  </head>
+                  <p>IF you fall sick on the 1st day of the Month, the 3d is to be feared, which passed, recovery is promised: If on the 2d day, there is great hopes of recovery: If on the 3d day, if you pass the Change of the Moon, there is likelihood of reco<g ref="char:EOLhyphen"/>very, If on the 4th day, the danger will continue till the 23th: If on the 5th day, recovery is promised: If on the 6th day, the Disease is dangerous: If on the 7th day, recovery is promised: If on the 8th, day it will be doubtful till the 12th: If on the 9th day, a speedy recovery: If on the 10th, very dangerous: If on on the 11th day, recovery: If on the 12th day, death is threatned within fifteen days: If on the 13th day, recovery by the 18th: If on the 14th day, recover quickly: If on the 15th day, danger of life: If on the 16th day, a tedious Sick<g ref="char:EOLhyphen"/>ness: If on the 17th day, death is threatned: If on the 18th day, quick recove<g ref="char:EOLhyphen"/>ry: If on the 19th the same: If on the 20th day, a short Sickness and recovery: If on the 21st day, recovery after ten days: If on the 22d day, the same: If on the 23d day, much pain, but recovery: If on the 24th day, very short Sick<g ref="char:EOLhyphen"/>ness: If on the 25th day, the same: If on the 26th day, recovery in five days: If on the 27th day, a long Sickness, if not death: If on the 28th day the like: If on the 29th day, death: If on the 30th day, recovery: If on the 31st, it is doubtful.</p>
+                  <lg>
+                     <l>Thus Reader, have I labour'd for thy Good;</l>
+                     <l>Which may do well, if rightly understood.</l>
+                  </lg>
+                  <pb facs="tcp:206941:14"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
